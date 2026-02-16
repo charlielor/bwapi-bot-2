@@ -16,4 +16,4 @@ Read tasks/current-task.md before writing any code. If the file is missing or em
 2. Make only the changes required for that step.
 3. Stop and summarize. Wait for confirmation.
 4. On confirmation, move to the next step and repeat.
-5. When all steps are complete, note that implementation is finished and suggest the user review tasks/current-task.md to close out the task.
+5. When all steps are complete, rename current-task.md to `YYYY-MM-DD-HH-MM-SS-three-word-summary.md` (hyphenated datetime + three word summary), and create another file with the same filename plus "-summary" suffix containing a summary of the task completed.
