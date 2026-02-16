@@ -50,5 +50,6 @@ All bot logic flows through virtual methods on `BWAPI::AIModule`. The most impor
 4. Launch StarCraft via Chaoslauncher with the BWAPI injector plugin enabled
 5. Start a game — the bot takes control automatically
 
-## BWAPI Classes Reference
-See [BWAPI_CLASSES.md](./docs/BWAPI_CLASSES.md) for the full BWAPI classes reference.
+## API References
+- [BWAPI_CLASSES.md](./docs/references/BWAPI_CLASSES.md) — BWAPI classes reference
+- [BWTA2_CLASSES.md](./docs/references/BWTA2_CLASSES.md) — BWTA2 terrain analysis reference
